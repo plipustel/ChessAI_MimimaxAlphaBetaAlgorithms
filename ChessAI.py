@@ -3,7 +3,7 @@
 @Description  : This project is aimed for educational purpose, implement the Artificial Intelligence algorithms: 
                 Minimax and Alpha Beta Pruning. The pretty project example in game theory is building Chess AI. Since 
                 the game tree of Chess AI has over 10^40 nodes (According to Stuart Russel), it is impossible to traverse of the tree. 
-                The best way to cut off the pruned branch is by defining the Heuristic Evaluation Functions (Reference: Shannon Fano)
+                The best way to cut off the pruned branch is by defining the Heuristic Evaluation Functions (Reference: Claude E. Shannon)
                 
                 The Evaluation function on this project, take the very fundamental eval functions:
                 1. Pieces Power
