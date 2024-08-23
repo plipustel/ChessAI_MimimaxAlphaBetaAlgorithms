@@ -1,6 +1,8 @@
 # ChessAI_MimimaxAlphaBetaAlgorithms
 
-Artificial Intelligence Chess AI
+Artificial Intelligence Chess AI with opitimized minimax algorithm with alpha beta pruning and heuristic function implementation by Plipus Telaumbanua <br>
+Website: <a href="https://www.plipustel.com>www.plipustel.com</a><br>
+Complete live code: <a href="https://www.youtube.com/@PlipusCode">Youtube PlipusCode Channel<a/>
 
 # Description
 
